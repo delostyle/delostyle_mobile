@@ -8,7 +8,7 @@ import DeloScreen from './src/screens/DeloScreen';
 
 const Stack = createStackNavigator();
 
- 
+  
 const App = () => {
   return (
     <NavigationContainer>
